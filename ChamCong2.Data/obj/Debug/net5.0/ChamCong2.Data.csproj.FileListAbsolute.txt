@@ -47,3 +47,12 @@ C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\obj\Debug\net5.0\ref\ChamCong
 C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\obj\Debug\net5.0\ChamCong2.Data.pdb
 C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\obj\Debug\net5.0\ChamCong2.Data.genruntimeconfig.cache
 C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\HP\source\repos\ChamCong02\ChamCong2.Data\bin\Debug\net5.0\Serilog.Sinks.File.dll
